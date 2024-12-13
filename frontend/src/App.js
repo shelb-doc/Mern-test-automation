@@ -1,5 +1,5 @@
-import React from 'react';
-import Form from './components/Form';
+import React from "react";
+import Form from "./components/Form";
 
 const App = () => {
   return (
@@ -10,4 +10,3 @@ const App = () => {
 };
 
 export default App;
-
